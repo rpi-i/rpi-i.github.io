@@ -2,7 +2,8 @@
 
 We are a team of students of the Hans-Böckler Vocational College Münster.
 
-On this page you can see all of our products of this year and where you can find us!
+On this page you will be able to find our projects of this year!
+
 
 Find us at <a href="https://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott voll Software">OpenRheinRuhr</a>
 
