@@ -1,5 +1,7 @@
 ## Welcome to RPi Interactive
 
+![RPI-Interactive Logo](https://sk-cdn.net/apps/rpi-interactive/logo.png)
+
 We are a team of students of the Hans-Böckler Vocational College Münster.
 
 On this page you will be able to find our projects of this year!
