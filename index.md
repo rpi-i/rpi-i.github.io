@@ -11,6 +11,6 @@ Find us at <a href="https://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott vol
 
 <br>
 
-<a href="https://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott voll Software">
-<img src="https://openrheinruhr.de/images/countdown.png" />
+<a href="http://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott voll Software">
+<img src="http://openrheinruhr.de/images/countdown.png" />
 </a>
