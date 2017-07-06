@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" href="https://sk-cdn.net/apps/rpi-interactive/logo.png" type="image/png">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name }}</title>
   </head>
 
   <body>
@@ -30,14 +30,6 @@
         {{ content }}
       </section>
     </div>
-    
-    <footer>
-      <div class="container">
-        <center>
-          <p><small>Copyright &copy; <a href="https://go.luca.lk">Luca Kiebel</a>, 2017</small></p>
-        </center>
-      </div>
-    </footer>
 
     {% if site.google_analytics %}
       <script type="text/javascript">
