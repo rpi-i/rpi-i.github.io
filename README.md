@@ -1,3 +1,7 @@
 # rpi-i.github.io // rpi-interactive.org
 
-Repository der Website vom RPi-Interactive Projekt der Schüler des Hans-Böckler-Berufskollegs Münster.
+Interactive RaspberryPi Projects by students of the Hans-Böckler Vocational College Münster
+
+http://hbbk-muenster.de
+
+https://linux-macht-schule.de
