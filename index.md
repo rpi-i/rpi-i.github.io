@@ -1,14 +1,18 @@
-## Welcome to RPi Interactive
+## Wilkommen zu RPi Interactive
 
 ![RPI-Interactive Logo](https://sk-cdn.net/websites/rpi-interactive/logo.png)
 
-We are a team of students of the Hans-Böckler Vocational College Münster.
+<!-- We are a team of students of the Hans-Böckler Vocational College Münster. -->
+Wir sind ein Team von Schülern des Hans-Böckler-Berufskollegs Münster.
 
-On this page you will be able to find our projects of this year!
+<!-- On this page you will be able to find our projects of this year! -->
+Auf dieser seite könnt ihr unsere diesjährigen Projekte finden!
 
-Take a look at our [project list](/projects)!
+<!-- Take a look at our [project list](/projects)! -->
+Schaut euch unsere [Projekt-Liste](/projects) an!
 
-Find us at <a href="https://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott voll Software">OpenRheinRuhr</a>
+<!-- Find us at <a href="https://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott voll Software">OpenRheinRuhr</a> -->
+Wir sind auf der <a href="https://openrheinruhr.de/" alt="OpenRheinRuhr - Ein Pott voll Software">OpenRheinRuhr</a> zu finden!
 
 <br>
 
